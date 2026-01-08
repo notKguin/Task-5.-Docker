@@ -1,0 +1,145 @@
+[
+{
+  "model": "recipes.recipe",
+  "pk": 1,
+  "fields": {
+    "title": "Посикунчики",
+    "description": "Посикунчики - веселое название уральских маленьких пирожков с мясом. Немного надкусишь посикунчик — и из него брызнет горячий бульон. А в народе говорят, что пирожки \"сикают\". Очень вкусно! Пробуем?",
+    "ingredients": "- тесто - 500 г;\n- фарш (свинина, говядина) — 450 г;\n- лук репчатый — 1 шт.;\n- соль — по вкусу;\n- перец чёрный молотый — по вкусу;\n- вода — 100 мл.",
+    "steps": "1. Из теста сформировать колбаски и нарезать в длину по пять сантиметров.\n2. Раскатать скалкой.\n3. В центр каждой лепёшки положить небольшой кусочек сливочного масла и добавить ложку фарша.\n4. Аккуратно соединить края теста «гребешком» или придавить по периметру вилкой, чтобы в процессе приготовления посикунчики не развалились.\n5. Обжарить в глубокой сковороде до появления золотистого цвета.",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 2,
+  "fields": {
+    "title": "фывфв",
+    "description": "фывфы",
+    "ingredients": "- фывфы",
+    "steps": "1. 1фывфыв\n2. фывфыв\n3. фыв\n4. фвыфыв",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 3,
+  "fields": {
+    "title": "Пельмешки",
+    "description": "Вкусные, домашние",
+    "ingredients": "Мясо\r\nПобольше мяса\r\nНемного теста\r\nлук",
+    "steps": "Сварил\r\nСъел\r\nДовольный",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 4,
+  "fields": {
+    "title": "1",
+    "description": "Вкусные, домашние",
+    "ingredients": "Мясо\n\nПобольше мяса\n\nНемного теста\n\nлук",
+    "steps": "Сварил\n\nСъел\n\nДовольный",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 5,
+  "fields": {
+    "title": "1",
+    "description": "Вкусные, домашние",
+    "ingredients": "Мясо\n\nПобольше мяса\nНемного теста\nлук",
+    "steps": "Сварил\n\nСъел\n\nДовольный",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 6,
+  "fields": {
+    "title": "1",
+    "description": "Вкусные, домашние",
+    "ingredients": "Мясо\n\nПобольше мяса\nНемного теста\nлук",
+    "steps": "Сварил\n\nСъел\n\nДовольный",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 7,
+  "fields": {
+    "title": "Блюдо",
+    "description": "Вкусное",
+    "ingredients": "1\r\n2\r\n3\r\n",
+    "steps": "первый\r\nвторой\r\nТретий",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 8,
+  "fields": {
+    "title": "",
+    "description": "",
+    "ingredients": "",
+    "steps": "",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 9,
+  "fields": {
+    "title": "sdfsdf",
+    "description": "sdfsdf",
+    "ingredients": "sdfsdf",
+    "steps": "sdfsdf",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 10,
+  "fields": {
+    "title": "sdfsdf",
+    "description": "sdfsdf",
+    "ingredients": "sdfsdf",
+    "steps": "sdfsdf",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 11,
+  "fields": {
+    "title": "фыв",
+    "description": "фыв",
+    "ingredients": "фыв",
+    "steps": "фыв",
+    "colories": true
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 12,
+  "fields": {
+    "title": "1",
+    "description": "1",
+    "ingredients": "1",
+    "steps": "1",
+    "colories": false
+  }
+},
+{
+  "model": "recipes.recipe",
+  "pk": 13,
+  "fields": {
+    "title": "1",
+    "description": "Вкусные, домашние",
+    "ingredients": "Мясо\n\nПобольше мяса\nНемного теста\nлук",
+    "steps": "Сварил\n\nСъел\n\nДовольный",
+    "colories": true
+  }
+}
+]
