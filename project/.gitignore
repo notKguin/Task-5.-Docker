@@ -1,0 +1,16 @@
+.venv
+db.sqlite3
+*.zip
+*.rar
+
+# env
+.env
+
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# django
+staticfiles/
+media/
